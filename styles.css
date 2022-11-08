@@ -14,13 +14,13 @@ p {
     font-size: 18px;
 
 }
-.ingredient .step {
+.ingredien .step {
     color: aqua;
     align-content: center;
 }
-.list .item {
+.list.item { 
     font-size: large;
-    color: blueviolet;
+    color: rgb(226, 43, 43);
 }
 .button.chained {
     color: blue;
